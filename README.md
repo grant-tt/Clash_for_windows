@@ -5,6 +5,7 @@ Clash_for_windows or  Clash_for_linux or Clash_for_Mac
 
 下载链接： https://github.com/Fndroid/clash_for_windows_pkg/releases?spm=a2c6h.12873639.article-detail.7.1a1266e9Sr8yas
 
+然后购买这里一个套餐服务器： http://cp.u9un.com/aff.php?aff=4806 
 
 # 2下载后解压放到需要安装的位置即可，不用再安装操作
 
