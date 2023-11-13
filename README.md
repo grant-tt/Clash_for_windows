@@ -1,5 +1,6 @@
 # Clash_for_windows
 Clash_for_windows or  Clash_for_linux or Clash_for_Mac
+不会操作的可以联系我QQ 1986829708
 
 # 1下载与系统匹配的clash版本
 
